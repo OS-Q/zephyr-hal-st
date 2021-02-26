@@ -1,0 +1,16 @@
+{
+  "name": "zephyr-hal-st",
+  "version": "0.0.1",
+  "description": "Zephyr module for the official libraries provided by STMicroelectronics",
+  "keywords": [
+    "library",
+    "zephyr",
+    "stm32",
+    "stmicroelectronics",
+    "sensors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zephyrproject-rtos/hal_st"
+  }
+}
